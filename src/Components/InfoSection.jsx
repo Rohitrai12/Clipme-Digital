@@ -28,7 +28,7 @@ function InfoSection() {
           <div className="flex-1 order-2 lg:order-1">
             <img src={Image2} alt="Illustration" className="w-full h-auto rounded-lg object-cover mx-auto lg:mx-0" />
           </div>
-          <div className="flex-1 order-1 lg:order-2 text-center lg:text-left space-y-4">
+          <div className="flex-1 order-1 lg:order-2 text-center lg:text-left space-y-4 my-[242px] gap-6">
             <h2 className="text-4xl md:text-6xl mb-4 text-black font-bold">
               Why Choose Us?
             </h2>
